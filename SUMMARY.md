@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [MY Notes For Pentesting](README.md)
+* [Information Gathering (Reconnaissance)](information-gathering-reconnaissance.md)
+* [Scanning & Enumeration](scanning-and-enumeration.md)
